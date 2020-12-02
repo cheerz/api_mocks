@@ -1,0 +1,41 @@
+{
+  "home_page": {
+    "identifier": "home",
+    "title": "titre",
+    "sections": [
+      {
+        "type": "collection",
+        "title": "Collection",
+        "tiles": [
+          {
+            "backgroundColor": "#fff3ff",
+            "text": "Good Prices",
+            "image": "https://staging1.cheerz.com/contents/assets/collection_icon-99vkbrvy52aab423zhtn0l34vlr2-1x-1.png"
+          },
+          {
+            "backgroundColor": "#ff12fff",
+            "text": "Black Friday",
+            "image": "https://staging1.cheerz.com/contents/assets/collection_icon-j0pyhmg0i0aqgjz6xfcs5kghlnvz-2x-1.png"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Categories",
+        "tiles": [
+          {
+            "image": "https://staging1.cheerz.com/contents/assets/slides-4gw5kgan623t7bm9ufaztqozvu3i-1x-1.jpeg",
+            "price": 40.0,
+            "label": "Sold Out"
+          },
+          {
+            "image": "https://staging1.cheerz.com/contents/assets/tile-JbZpcojRLvshasX7WrK7UT4b-1x-1.jpeg",
+            "price": 50.50,
+            "label": "Sold Out"
+          }
+        ]
+      },
+
+    ]
+  }
+}
