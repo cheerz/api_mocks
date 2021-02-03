@@ -29,7 +29,7 @@
         {
             "id": "Archimède",
             "backgroundColor": "#ff12fff",
-            "textComponents": [
+            "textBlock1": [
                 {
                     "text": "A partir de",
                     "style": {
@@ -62,7 +62,7 @@
         {
             "id": "Balthazar",
             "backgroundColor": "#ff12fff",
-            "textComponents": [
+            "textBlock1": [
                 {
                     "text": "1944 Jean-Marc est un résistant",
                     "style": {
