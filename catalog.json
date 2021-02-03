@@ -29,21 +29,60 @@
         {
             "id": "Archimède",
             "backgroundColor": "#ff12fff",
-            "texts": [
-                "Black Friday",
-                "Badaboom"
+            "textComponents": [
+                {
+                    "text": "A partir de",
+                    "style": {
+                        "color": "color_crunchz",
+                        "typography": "typography_crunchz",
+                        "options": [
+                            "striked"
+                        ]
+                    }
+                },
+                {
+                    "text": "L'avenir est un long passé",
+                    "style": {
+                        "color": "color_crunchz",
+                        "typography": "typography_crunchz",
+                        "options": [
+                            "striked"
+                        ]
+                    }
+                }
             ],
             "images": [
                 "https://staging1.cheerz.com/contents/assets/slides-4gw5kgan623t7bm9ufaztqozvu3i-1x-1.jpeg"
             ],
-            "navigationLink": null
+            "navigationLink": {
+                "type": "page",
+                "link": "home"
+            }
         },
         {
             "id": "Balthazar",
             "backgroundColor": "#ff12fff",
-            "texts": [
-                "Black Friday",
-                "Ballon"
+            "textComponents": [
+                {
+                    "text": "1944 Jean-Marc est un résistant",
+                    "style": {
+                        "color": "color_crunchz",
+                        "typography": "typography_crunchz",
+                        "options": [
+                            "striked"
+                        ]
+                    }
+                },
+                {
+                    "text": "Le câble est bien trop court",
+                    "style": {
+                        "color": "color_crunchz",
+                        "typography": "typography_crunchz",
+                        "options": [
+                            "striked"
+                        ]
+                    }
+                }
             ],
             "images": [
                 "https://staging1.cheerz.com/contents/assets/highlight_image-7gphxyyuo4f437gxegv8cjt5b22w-2x-1.jpg"
