@@ -87,7 +87,10 @@
             "images": [
                 "https://staging1.cheerz.com/contents/assets/highlight_image-7gphxyyuo4f437gxegv8cjt5b22w-2x-1.jpg"
             ],
-            "navigationLink": null
+            "navigationLink": {
+                "type": "url",
+                "link": "https://www.instagram.com/sayjohnny/"
+            }
         }
     ]
 }
