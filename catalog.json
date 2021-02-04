@@ -28,7 +28,7 @@
     "tiles": [
         {
             "id": "Archimède",
-            "backgroundColor": "#ff12fff",
+            "backgroundColor": "#ff12ff",
             "textBlock1": [
                 {
                     "text": "A partir de",
@@ -61,7 +61,7 @@
         },
         {
             "id": "Balthazar",
-            "backgroundColor": "#ff12fff",
+            "backgroundColor": "#ff12ff",
             "textBlock1": [
                 {
                     "text": "1944 Jean-Marc est un résistant",
