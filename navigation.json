@@ -1,0 +1,195 @@
+{
+  "pages": [
+    {
+      "identifier": "home",
+      "title": "titre",
+      "sections": [
+        {
+          "displayType": "todo",
+          "layoutType": "category",
+          "title": "Collection",
+          "tilesIdentifiers": [
+            "Archimède",
+            "Balthazar",
+            "manau"
+          ]
+        },
+        {
+          "displayType": "collection",
+          "layoutType": "collection",
+          "title": "Collection",
+          "tilesIdentifiers": [
+            "Archimède",
+            "Balthazar",
+            "Archimède",
+            "Balthazar",
+            "Archimède",
+            "Balthazar",
+            "Archimède",
+            "Balthazar"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "manau_page",
+      "title": "Manau",
+      "sections": [
+        {
+          "displayType": "todo",
+          "layoutType": "category",
+          "title": "Collection",
+          "tilesIdentifiers": [
+            "Balthazar"
+          ]
+        },
+        {
+          "displayType": "collection",
+          "layoutType": "collection",
+          "title": "Collection",
+          "tilesIdentifiers": [
+            "avenir",
+            "panique_celtique"
+          ]
+        }
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "id": "Archimède",
+      "backgroundColor": "#ff12ff",
+      "textBlock1": [
+        {
+          "text": "A partir de",
+          "style": {
+            "color": "color_crunchz",
+            "typography": "typography_crunchz",
+            "options": [
+              "striked"
+            ]
+          }
+        },
+        {
+          "text": "L'avenir est un long passé",
+          "style": {
+            "color": "color_crunchz",
+            "typography": "typography_crunchz",
+            "options": [
+              "striked"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "https://staging1.cheerz.com/contents/assets/slides-4gw5kgan623t7bm9ufaztqozvu3i-1x-1.jpeg"
+      ],
+      "navigationLink": {
+        "type": "deeplink", // Choose a proper name
+        "link": "books"
+      }
+    },
+    {
+      "id": "Balthazar",
+      "backgroundColor": "#ff12ff",
+      "textBlock1": [
+        {
+          "text": "1944 Jean-Marc est un résistant",
+          "style": {
+            "color": "color_crunchz",
+            "typography": "typography_crunchz",
+            "options": [
+              "striked"
+            ]
+          }
+        },
+        {
+          "text": "Le câble est bien trop court",
+          "style": {
+            "color": "color_crunchz",
+            "typography": "typography_crunchz",
+            "options": [
+              "striked"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "https://staging1.cheerz.com/contents/assets/highlight_image-7gphxyyuo4f437gxegv8cjt5b22w-2x-1.jpg"
+      ],
+      "navigationLink": {
+        "type": "url",
+        "link": "https://www.instagram.com/sayjohnny/"
+      }
+    },
+    {
+      "id": "manau",
+      "backgroundColor": "#ff12ff",
+      "textBlock1": [
+        {
+          "text": "Manau",
+          "style": {
+            "color": "color_crunchz",
+            "typography": "typography_crunchz",
+            "options": [
+              "striked"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "https://file1.closermag.fr/var/closermag/storage/images/1/2/6/3/6/12636033/le-groupe-manau-bientot-retour-avec-nouvel-album.jpg?alias=original"
+      ],
+      "navigationLink": {
+        "type": "page",
+        "link": "manau_page"
+      }
+    },
+    {
+      "id": "panique_celtique",
+      "backgroundColor": "#ff12ff",
+      "textBlock1": [
+        {
+          "text": "Panique Celtique",
+          "style": {
+            "color": "color_crunchz",
+            "typography": "typography_crunchz",
+            "options": [
+              "striked"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+      ],
+      "navigationLink": {
+        "type": "url",
+        "link": "https://www.youtube.com/watch?v=kJ8moFmh_IM"
+      }
+    },
+    {
+      "id": "avenir",
+      "backgroundColor": "#ff12ff",
+      "textBlock1": [
+        {
+          "text": "L'avenir est un long passé",
+          "style": {
+            "color": "color_crunchz",
+            "typography": "typography_crunchz",
+            "options": [
+              "striked"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+      ],
+      "navigationLink": {
+        "type": "url",
+        "link": "https://www.youtube.com/watch?v=rlqvaI38mz8"
+      }
+    }
+  ]
+}
