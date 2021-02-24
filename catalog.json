@@ -5,8 +5,8 @@
       "title": "titre",
       "sections": [
         {
-          "displayType": "todo",
-          "layoutType": "category",
+          "template": "banner",
+          "layout": "horizontal",
           "title": "Collection",
           "tilesIdentifiers": [
             "Archimède",
@@ -15,9 +15,9 @@
           ]
         },
         {
-          "displayType": "collection",
-          "layoutType": "collection",
-          "title": "Collection",
+          "template": "notification",
+          "layout": "horizontal",
+          "title": null,
           "tilesIdentifiers": [
             "Archimède",
             "Balthazar",
@@ -36,16 +36,23 @@
       "title": "Manau",
       "sections": [
         {
-          "displayType": "todo",
-          "layoutType": "category",
+          "template": "banner",
+          "layout": "vertical",
           "title": "Collection",
+          "cta": {
+            "text": "tout voir",
+            "navigationLink": {
+              "type": "url",
+              "link": "https://www.instagram.com/sayjohnny/"
+            }
+          },
           "tilesIdentifiers": [
             "Balthazar"
           ]
         },
         {
-          "displayType": "collection",
-          "layoutType": "collection",
+          "template": "notification",
+          "layout": "vertical",
           "title": "Collection",
           "tilesIdentifiers": [
             "avenir",
@@ -87,6 +94,13 @@
       "navigationLink": {
         "type": "deeplink", // Choose a proper name
         "link": "books"
+      },
+      "cta": {
+        "text": "Recommander",
+        "navigationLink": {
+          "type": "page",
+          "link": "manau_page"
+        }
       }
     },
     {
