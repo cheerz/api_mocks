@@ -1,0 +1,455 @@
+{
+  "pages": [
+    {
+      "identifier": "home",
+      "title": "Hello Jean-Pascal,",
+      "sections": [
+        {
+          "template": "marketing_banners",
+          "title": null,
+          "tiles_identifiers": [
+            "marketing_banner_1",
+            "marketing_banner_2"
+          ],
+        },
+        {
+          "template": "marketing_page_block",
+          "title": null,
+          "tiles_identifiers": [
+            "marketing_page_block_4",
+            "marketing_page_block_8",
+            "marketing_page_block_9"
+          ]
+        },
+        {
+          "template": "categories_large",
+          "title": "Pour les joies du quotidien",
+          "tiles_identifiers": [
+            "categories_large_2",
+            "categories_large_7",
+            "categories_large_3",
+            "categories_large_8"
+          ],
+        },
+        {
+          "template": "cta_marketing_blocks",
+          "title": null,
+          "tiles_identifiers": [
+            "cta_marketing_blocks_1"
+          ],
+        },
+        {
+          "template": "icon_blocks",
+          "title": "#de notremieux",
+          "tiles_identifiers": [
+            "icon_blocks_1",
+            "icon_blocks_2",
+            "icon_blocks_3",
+            "icon_blocks_4"
+          ],
+        }
+      ]
+    },
+  ],
+  "tiles": [
+    {
+      "id": "marketing_banner_1",
+      "background_color": "#0069FF",
+      "text_block_1": [
+        {
+          "text": "Livraison et retours gratuits à partir de 50€ d'achat",
+          "style": {
+            "color": "#FFFFFF",
+            "typography": "Poppins",
+            "options": []
+          }
+        },
+      ],
+      "images": [],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/categories/albums"
+      },
+      "cta": {
+        "text": "Lire plus",
+        "navigation_link": {
+          "type": "url",
+          "link": "https://www.cheerz.com/fr/categories/albums"
+        }
+      }
+    },
+    {
+      "id": "marketing_banner_2",
+      "background_color": "#8C9BA5",
+      "text_block_1": [
+        {
+          "text": "La fête des grands-mères c'est le 7 mars, alors rattrapez-vous avec une carte cadeau !",
+          "style": {
+            "color": "#FFFFFF",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [],
+      "navigation_link": {},
+      "cta": {}
+    },
+    {
+      "id": "marketing_page_block_4",
+      "background_color": "#ffffff",
+      "text_block_1": [
+        {
+          "text": "Envie de revivre ce drôle d’été ?",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Un livre photo personnalisé, fleuri et garni de belles histoires : les vôtres",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [
+        "https://file1.closermag.fr/var/closermag/storage/images/1/2/6/3/6/12636033/le-groupe-manau-bientot-retour-avec-nouvel-album.jpg?alias=original"
+      ],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/categories/new-arrivals-collection"
+      },
+      "cta": {
+        "text": "Voir la collection de l’été",
+        "navigation_link": {
+          "type": "url",
+          "link": "https://www.cheerz.com/fr/categories/new-arrivals-collection"
+        }
+      }
+    },
+    {
+      "id": "marketing_page_block_8",
+      "background_color": "#ffffff",
+      "text_block_1": [
+        {
+          "text": "Il est temps de penser à Mamie !",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Quel plus beau cadeau pour la meilleure des grands-mères qu'un florilège de beaux souvenirs ?",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [
+        "https://file1.closermag.fr/var/closermag/storage/images/1/2/6/3/6/12636033/le-groupe-manau-bientot-retour-avec-nouvel-album.jpg?alias=original"
+      ],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/categories/grandmothersday-collection"
+      },
+      "cta": {
+        "text": "Voir la collection spéciale fête des grands-mères",
+        "navigation_link": {
+          "type": "url",
+          "link": "https://www.cheerz.com/fr/categories/grandmothersday-collection"
+        }
+      }
+    },
+    {
+      "id": "marketing_page_block_9",
+      "background_color": "#ffffff",
+      "text_block_1": [
+        {
+          "text": "Quelques mots d'amour...",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Une photo, un petit mot... la recette du meilleur cadeau !",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+      ],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/products/la-petite-attention"
+      },
+      "cta": {
+        "text": "J'achète !",
+        "navigation_link": {
+          "type": "url",
+          "link": "https://www.cheerz.com/fr/products/la-petite-attention"
+        }
+      }
+    },
+    {
+      "id": "categories_large_2",
+      "background_color": "#0069FF, 6 %",
+      "text_block_1": [
+        {
+          "text": "Tirage photo",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+      ],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/products/prints"
+      },
+      "cta": {}
+    },
+    {
+      "id": "categories_large_7",
+      "background_color": "#0069FF, 6 %",
+      "text_block_1": [
+        {
+          "text": "Magnet",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+      ],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/products/magnets"
+      },
+      "cta": {}
+    },
+    {
+      "id": "categories_large_3",
+      "background_color": "#0069FF, 6 %",
+      "text_block_1": [
+        {
+          "text": "Box photo",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+      ],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/products/box"
+      },
+      "cta": {}
+    },
+    {
+      "id": "categories_large_8",
+      "background_color": "#0069FF, 6 %",
+      "text_block_1": [
+        {
+          "text": "Albums photo",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+      ],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/products/books"
+      },
+      "cta": {}
+    },
+    {
+      "id": "cta_marketing_blocks_1",
+      "background_color": "#FBF5E6",
+      "text_block_1": [
+        {
+          "text": "Vous organisez un événement ?",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Découvrez nos photobooths à la location",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_3": [
+        {
+          "text": "(et n’oubliez pas de nous inviter à votre soirée)",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [],
+      "navigation_link": {
+        "type": "url",
+        "link": "https://www.cheerz.com/fr/products/photobooths"
+      },
+      "cta": {
+        "text": "Réserver",
+        "navigation_link": {
+          "type": "url",
+          "link": "https://www.cheerz.com/fr/products/photobooths"
+        }
+      }
+    },
+    {
+      "id": "icon_blocks_1",
+      "background_color": "#F0F6FF",
+      "text_block_1": [
+        {
+          "text": "Livré vite",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Livraison chez vous en moins d’une semaine",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [],
+      "navigation_link": {},
+      "cta": {}
+    },
+    {
+      "id": "icon_blocks_2",
+      "background_color": "#F0F6FF",
+      "text_block_1": [
+        {
+          "text": "Pollution zéro",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Tous nos packagings sont recyclés et recyclables",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [],
+      "navigation_link": {},
+      "cta": {}
+    },
+    {
+      "id": "icon_blocks_2",
+      "background_color": "#F0F6FF",
+      "text_block_1": [
+        {
+          "text": "Custo à fond",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Produits 100 % personnalisable",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [],
+      "navigation_link": {},
+      "cta": {}
+    },
+    {
+      "id": "icon_blocks_2",
+      "background_color": "#F0F6FF",
+      "text_block_1": [
+        {
+          "text": "Meilleur Kdo",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Élus meilleurs cadeaux (par nous)",
+          "style": {
+            "color": "#000000",
+            "typography": "Poppins",
+            "options": []
+          }
+        }
+      ],
+      "images": [],
+      "navigation_link": {},
+      "cta": {}
+    }
+  ]
+}
