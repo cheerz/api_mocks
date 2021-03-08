@@ -263,8 +263,6 @@
           {
             "text": "Tirage photo",
             "style": {
-              "hex": "#000000",
-              "typography": "Poppins",
               "options": []
             }
           }
