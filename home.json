@@ -148,7 +148,11 @@
         ]
       ],
       "images": [
-        "https://file1.closermag.fr/var/closermag/storage/images/1/2/6/3/6/12636033/le-groupe-manau-bientot-retour-avec-nouvel-album.jpg?alias=original"
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
       ],
       "navigation_link": {
         "type": "url",
@@ -187,7 +191,11 @@
         ]
       ],
       "images": [
-        "https://file1.closermag.fr/var/closermag/storage/images/1/2/6/3/6/12636033/le-groupe-manau-bientot-retour-avec-nouvel-album.jpg?alias=original"
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
       ],
       "navigation_link": {
         "type": "url",
@@ -226,7 +234,11 @@
         ],
       ],
       "images": [
-        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
       ],
       "navigation_link": {
         "type": "url",
@@ -259,7 +271,11 @@
         ]
       ],
       "images": [
-        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
       ],
       "navigation_link": {
         "type": "url",
@@ -284,7 +300,11 @@
         ]
       ],
       "images": [
-        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
       ],
       "navigation_link": {
         "type": "url",
@@ -309,7 +329,11 @@
         ]
       ],
       "images": [
-        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
       ],
       "navigation_link": {
         "type": "url",
@@ -334,7 +358,11 @@
         ]
       ],
       "images": [
-        "https://images-na.ssl-images-amazon.com/images/I/81gCjKb5GaL._SL1400_.jpg"
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
       ],
       "navigation_link": {
         "type": "url",
@@ -411,7 +439,13 @@
           }
         ]
       ],
-      "images": [],
+      "images": [
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
+      ],
       "navigation_link": {},
       "cta": {}
     },
@@ -439,12 +473,18 @@
           }
         ]
       ],
-      "images": [],
+      "images": [
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
+      ],
       "navigation_link": {},
       "cta": {}
     },
     {
-      "id": "icon_blocks_2",
+      "id": "icon_blocks_3",
       "background_color": {
         "color": null,
         "opacity": null,
@@ -471,12 +511,18 @@
           }
         ]
       ],
-      "images": [],
+      "images": [
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
+      ],
       "navigation_link": {},
       "cta": {}
     },
     {
-      "id": "icon_blocks_2",
+      "id": "icon_blocks_4",
       "background_color": {
         "color": null,
         "opacity": null,
@@ -503,7 +549,13 @@
           }
         ]
       ],
-      "images": [],
+      "images": [
+        {
+          "3x": "3x",
+          "2x": "2x",
+          "1x": "1x"
+        }
+      ],
       "navigation_link": {},
       "cta": {}
     }
