@@ -1,15 +1,15 @@
 {
   "pages": [
     {
-      "identifier": "home",
+      "id": "home",
       "title": "Hello Jean-Pascal,",
       "sections": [
         {
           "template": "marketing_banners",
           "title": null,
           "background_color": {
-            "color": null,
-            "opacity": null,
+            "hex": null,
+            "opacity_percentage": null,
           },
           "tiles_identifiers": [
             "marketing_banner_1",
@@ -20,8 +20,8 @@
           "template": "marketing_page_block",
           "title": null,
           "background_color": {
-            "color": null,
-            "opacity": null,
+            "hex": null,
+            "opacity_percentage": null,
           },
           "tiles_identifiers": [
             "marketing_page_block_4",
@@ -33,8 +33,8 @@
           "template": "categories_large",
           "title": "Pour les joies du quotidien",
           "background_color": {
-            "color": null,
-            "opacity": null,
+            "hex": null,
+            "opacity_percentage": null,
           },
           "tiles_identifiers": [
             "categories_large_2",
@@ -47,8 +47,8 @@
           "template": "cta_marketing_blocks",
           "title": null,
           "background_color": {
-            "color": "#FBF5E6",
-            "opacity": 100,
+            "hex": "#FBF5E6",
+            "opacity_percentage": 100,
           },
           "tiles_identifiers": [
             "cta_marketing_blocks_1"
@@ -58,8 +58,8 @@
           "template": "icon_blocks",
           "title": "#de notremieux",
           "background_color": {
-            "color": "#F0F6FF",
-            "opacity": 100,
+            "hex": "#F0F6FF",
+            "opacity_percentage": 100,
           },
           "tiles_identifiers": [
             "icon_blocks_1",
@@ -75,8 +75,8 @@
     {
       "id": "marketing_banner_1",
       "background_color": {
-        "color": "#0069FF",
-        "opacity": 100,
+        "hex": "#0069FF",
+        "opacity_percentage": 100,
       },
       "text_blocks": [
         [
@@ -106,8 +106,8 @@
     {
       "id": "marketing_banner_2",
       "background_color": {
-        "color": "#8C9BA5",
-        "opacity": 100,
+        "hex": "#8C9BA5",
+        "opacity_percentage": 100,
       },
       "text_blocks": [
         [
@@ -126,8 +126,8 @@
     {
       "id": "marketing_page_block_4",
       "background_color": {
-        "color": "#ffffff",
-        "opacity": 100,
+        "hex": "#ffffff",
+        "opacity_percentage": 100,
       },
       "text_blocks": [
         [
@@ -169,8 +169,8 @@
     {
       "id": "marketing_page_block_8",
       "background_color": {
-        "color": "#ffffff",
-        "opacity": 100,
+        "hex": "#ffffff",
+        "opacity_percentage": 100,
       },
       "text_blocks": [
         [
@@ -212,8 +212,8 @@
     {
       "id": "marketing_page_block_9",
       "background_color": {
-        "color": "#ffffff",
-        "opacity": 100,
+        "hex": "#ffffff",
+        "opacity_percentage": 100,
       },
       "text_blocks": [
         [
@@ -255,15 +255,15 @@
     {
       "id": "categories_large_2",
       "background_color": {
-        "color": "#0069FF",
-        "opacity": 6,
+        "hex": "#0069FF",
+        "opacity_percentage": 6,
       },
       "text_blocks": [
         [
           {
             "text": "Tirage photo",
             "style": {
-              "color": "#000000",
+              "hex": "#000000",
               "typography": "Poppins",
               "options": []
             }
@@ -286,8 +286,8 @@
     {
       "id": "categories_large_7",
       "background_color": {
-        "color": "#0069FF",
-        "opacity": 6,
+        "hex": "#0069FF",
+        "opacity_percentage": 6,
       },
       "text_blocks": [
         [
@@ -315,8 +315,8 @@
     {
       "id": "categories_large_3",
       "background_color": {
-        "color": "#0069FF",
-        "opacity": 6,
+        "hex": "#0069FF",
+        "opacity_percentage": 6,
       },
       "text_blocks": [
         [
@@ -344,8 +344,8 @@
     {
       "id": "categories_large_8",
       "background_color": {
-        "color": "#0069FF",
-        "opacity": 6,
+        "hex": "#0069FF",
+        "opacity_percentage": 6,
       },
       "text_blocks": [
         [
@@ -373,8 +373,8 @@
     {
       "id": "cta_marketing_blocks_1",
       "background_color": {
-        "color": "#FBF5E6",
-        "opacity": 100,
+        "hex": "#FBF5E6",
+        "opacity_percentage": 100,
       },
       "text_block_1": [
         [
@@ -418,8 +418,8 @@
     {
       "id": "icon_blocks_1",
       "background_color": {
-        "color": null,
-        "opacity": null,
+        "hex": null,
+        "opacity_percentage": null,
       },
       "text_blocks": [
         [
@@ -452,8 +452,8 @@
     {
       "id": "icon_blocks_2",
       "background_color": {
-        "color": null,
-        "opacity": null,
+        "hex": null,
+        "opacity_percentage": null,
       },
       "text_blocks": [
         [
@@ -486,15 +486,15 @@
     {
       "id": "icon_blocks_3",
       "background_color": {
-        "color": null,
-        "opacity": null,
+        "hex": null,
+        "opacity_percentage": null,
       },
       "text_blocks": [
         [
           {
             "text": "Custo à fond",
             "style": {
-              "color": "#000000",
+              "hex": "#000000",
               "typography": "Poppins",
               "options": []
             }
@@ -504,7 +504,7 @@
           {
             "text": "Produits 100 % personnalisable",
             "style": {
-              "color": "#000000",
+              "hex": "#000000",
               "typography": "Poppins",
               "options": []
             }
@@ -524,15 +524,15 @@
     {
       "id": "icon_blocks_4",
       "background_color": {
-        "color": null,
-        "opacity": null,
+        "hex": null,
+        "opacity_percentage": null,
       },
       "text_blocks": [
         [
           {
             "text": "Meilleur Kdo",
             "style": {
-              "color": "#000000",
+              "hex": "#000000",
               "typography": "Poppins",
               "options": []
             }
@@ -542,7 +542,7 @@
           {
             "text": "Élus meilleurs cadeaux (par nous)",
             "style": {
-              "color": "#000000",
+              "hex": "#000000",
               "typography": "Poppins",
               "options": []
             }
