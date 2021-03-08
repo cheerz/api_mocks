@@ -376,7 +376,7 @@
         "hex": "#FBF5E6",
         "opacity_percentage": 100,
       },
-      "text_block_1": [
+      "text_blocks": [
         [
           {
             "text": "Vous organisez un événement ?",
