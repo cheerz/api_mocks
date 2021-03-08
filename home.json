@@ -11,7 +11,7 @@
             "hex": null,
             "opacity_percentage": null,
           },
-          "tiles_identifiers": [
+          "tile_identifiers": [
             "marketing_banner_1",
             "marketing_banner_2"
           ],
@@ -23,7 +23,7 @@
             "hex": null,
             "opacity_percentage": null,
           },
-          "tiles_identifiers": [
+          "tile_identifiers": [
             "marketing_page_block_4",
             "marketing_page_block_8",
             "marketing_page_block_9"
@@ -36,7 +36,7 @@
             "hex": null,
             "opacity_percentage": null,
           },
-          "tiles_identifiers": [
+          "tile_identifiers": [
             "categories_large_2",
             "categories_large_7",
             "categories_large_3",
@@ -50,7 +50,7 @@
             "hex": "#FBF5E6",
             "opacity_percentage": 100,
           },
-          "tiles_identifiers": [
+          "tile_identifiers": [
             "cta_marketing_blocks_1"
           ],
         },
@@ -61,7 +61,7 @@
             "hex": "#F0F6FF",
             "opacity_percentage": 100,
           },
-          "tiles_identifiers": [
+          "tile_identifiers": [
             "icon_blocks_1",
             "icon_blocks_2",
             "icon_blocks_3",
