@@ -3,10 +3,12 @@
     {
       "id": "home",
       "title": "Hello Jean-Pascal,",
+      "sub_title": null,
       "sections": [
         {
           "template": "marketing_banners",
           "title": null,
+          "sub_title": null,
           "background_color": {
             "hex": null,
             "opacity_percentage": null,
@@ -19,6 +21,7 @@
         {
           "template": "marketing_page_block",
           "title": null,
+          "sub_title": null,
           "background_color": {
             "hex": null,
             "opacity_percentage": null,
@@ -32,6 +35,7 @@
         {
           "template": "categories_large",
           "title": "Pour les joies du quotidien",
+          "sub_title": null,
           "background_color": {
             "hex": null,
             "opacity_percentage": null,
@@ -46,6 +50,7 @@
         {
           "template": "cta_marketing_blocks",
           "title": null,
+          "sub_title": null,
           "background_color": {
             "hex": "#FBF5E6",
             "opacity_percentage": 100,
@@ -57,6 +62,7 @@
         {
           "template": "icon_blocks",
           "title": "#de notremieux",
+          "sub_title": null,
           "background_color": {
             "hex": "#F0F6FF",
             "opacity_percentage": 100,
@@ -101,7 +107,8 @@
         "type": "deeplink",
         "link": "https://www.cheerz.com/fr/categories/albums"
       },
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "marketing_banner_2",
@@ -121,7 +128,8 @@
       ],
       "images": [],
       "navigation_link": {},
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "marketing_page_block_4",
@@ -164,7 +172,8 @@
           "type": "url",
           "link": "https://www.cheerz.com/fr/categories/new-arrivals-collection"
         }
-      }
+      },
+      "list_blocks": []
     },
     {
       "id": "marketing_page_block_8",
@@ -207,7 +216,8 @@
           "type": "url",
           "link": "https://www.cheerz.com/fr/categories/grandmothersday-collection"
         }
-      }
+      },
+      "list_blocks": []
     },
     {
       "id": "marketing_page_block_9",
@@ -250,7 +260,8 @@
           "type": "url",
           "link": "https://www.cheerz.com/fr/products/la-petite-attention"
         }
-      }
+      },
+      "list_blocks": []
     },
     {
       "id": "categories_large_2",
@@ -279,7 +290,8 @@
         "type": "url",
         "link": "https://www.cheerz.com/fr/products/prints"
       },
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "categories_large_7",
@@ -308,7 +320,8 @@
         "type": "url",
         "link": "https://www.cheerz.com/fr/products/magnets"
       },
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "categories_large_3",
@@ -337,7 +350,8 @@
         "type": "url",
         "link": "https://www.cheerz.com/fr/products/box"
       },
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "categories_large_8",
@@ -366,7 +380,8 @@
         "type": "url",
         "link": "https://www.cheerz.com/fr/products/books"
       },
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "cta_marketing_blocks_1",
@@ -411,7 +426,8 @@
           "type": "url",
           "link": "https://www.cheerz.com/fr/products/photobooths"
         }
-      }
+      },
+      "list_blocks": []
     },
     {
       "id": "icon_blocks_1",
@@ -445,7 +461,8 @@
         }
       ],
       "navigation_link": {},
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "icon_blocks_2",
@@ -479,7 +496,8 @@
         }
       ],
       "navigation_link": {},
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "icon_blocks_3",
@@ -517,7 +535,8 @@
         }
       ],
       "navigation_link": {},
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     },
     {
       "id": "icon_blocks_4",
@@ -555,7 +574,8 @@
         }
       ],
       "navigation_link": {},
-      "cta": {}
+      "cta": {},
+      "list_blocks": []
     }
   ]
 }
