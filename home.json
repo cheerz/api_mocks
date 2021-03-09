@@ -78,23 +78,21 @@
         "hex": "#0069FF",
         "opacity_percentage": 100,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Livraison et retours gratuits à partir de 50€ d'achat - ",
-            "style": {
-              "options": []
-            }
-          },
-          {
-            "text": "Lire plus",
-            "style": {
-              "options": [
-                "underlined"
-              ]
-            }
+      "text_block_1": [
+        {
+          "text": "Livraison et retours gratuits à partir de 50€ d'achat - ",
+          "style": {
+            "options": []
           }
-        ]
+        },
+        {
+          "text": "Lire plus",
+          "style": {
+            "options": [
+              "underlined"
+            ]
+          }
+        }
       ],
       "images": [],
       "navigation_link": {
@@ -109,15 +107,13 @@
         "hex": "#8C9BA5",
         "opacity_percentage": 100,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "La fête des grands-mères c'est le 7 mars, alors rattrapez-vous avec une carte cadeau !",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "La fête des grands-mères c'est le 7 mars, alors rattrapez-vous avec une carte cadeau !",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [],
       "navigation_link": {},
@@ -129,23 +125,21 @@
         "hex": "#ffffff",
         "opacity_percentage": 100,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Envie de revivre ce drôle d’été ?",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Envie de revivre ce drôle d’été ?",
+          "style": {
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Un livre photo personnalisé, fleuri et garni de belles histoires : les vôtres",
-            "style": {
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Un livre photo personnalisé, fleuri et garni de belles histoires : les vôtres",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -172,23 +166,21 @@
         "hex": "#ffffff",
         "opacity_percentage": 100,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Il est temps de penser à Mamie !",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Il est temps de penser à Mamie !",
+          "style": {
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Quel plus beau cadeau pour la meilleure des grands-mères qu'un florilège de beaux souvenirs ?",
-            "style": {
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Quel plus beau cadeau pour la meilleure des grands-mères qu'un florilège de beaux souvenirs ?",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -215,23 +207,21 @@
         "hex": "#ffffff",
         "opacity_percentage": 100,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Quelques mots d'amour...",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Quelques mots d'amour...",
+          "style": {
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Une photo, un petit mot... la recette du meilleur cadeau !",
-            "style": {
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Une photo, un petit mot... la recette du meilleur cadeau !",
+          "style": {
+            "options": []
           }
-        ],
+        }
       ],
       "images": [
         {
@@ -258,15 +248,13 @@
         "hex": "#0069FF",
         "opacity_percentage": 6,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Tirage photo",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Tirage photo",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -287,15 +275,13 @@
         "hex": "#0069FF",
         "opacity_percentage": 6,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Magnet",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Magnet",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -316,15 +302,13 @@
         "hex": "#0069FF",
         "opacity_percentage": 6,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Box photo",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Box photo",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -345,15 +329,13 @@
         "hex": "#0069FF",
         "opacity_percentage": 6,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Albums photo",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Albums photo",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -374,31 +356,29 @@
         "hex": "#FBF5E6",
         "opacity_percentage": 100,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Vous organisez un événement ?",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Vous organisez un événement ?",
+          "style": {
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Découvrez nos photobooths à la location",
-            "style": {
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Découvrez nos photobooths à la location",
+          "style": {
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "(et n’oubliez pas de nous inviter à votre soirée)",
-            "style": {
-              "options": []
-            }
+        }
+      ],
+      "text_block_3": [
+        {
+          "text": "(et n’oubliez pas de nous inviter à votre soirée)",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [],
       "navigation_link": {
@@ -419,23 +399,21 @@
         "hex": null,
         "opacity_percentage": null,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Livré vite",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Livré vite",
+          "style": {
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Livraison chez vous en moins d’une semaine",
-            "style": {
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Livraison chez vous en moins d’une semaine",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -453,23 +431,21 @@
         "hex": null,
         "opacity_percentage": null,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Pollution zéro",
-            "style": {
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Pollution zéro",
+          "style": {
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Tous nos packagings sont recyclés et recyclables",
-            "style": {
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Tous nos packagings sont recyclés et recyclables",
+          "style": {
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -487,27 +463,25 @@
         "hex": null,
         "opacity_percentage": null,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Custo à fond",
-            "style": {
-              "hex": "#000000",
-              "typography": "Poppins",
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Custo à fond",
+          "style": {
+            "hex": "#000000",
+            "typography": "Poppins",
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Produits 100 % personnalisable",
-            "style": {
-              "hex": "#000000",
-              "typography": "Poppins",
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Produits 100 % personnalisable",
+          "style": {
+            "hex": "#000000",
+            "typography": "Poppins",
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
@@ -525,27 +499,25 @@
         "hex": null,
         "opacity_percentage": null,
       },
-      "text_blocks": [
-        [
-          {
-            "text": "Meilleur Kdo",
-            "style": {
-              "hex": "#000000",
-              "typography": "Poppins",
-              "options": []
-            }
+      "text_block_1": [
+        {
+          "text": "Meilleur Kdo",
+          "style": {
+            "hex": "#000000",
+            "typography": "Poppins",
+            "options": []
           }
-        ],
-        [
-          {
-            "text": "Élus meilleurs cadeaux (par nous)",
-            "style": {
-              "hex": "#000000",
-              "typography": "Poppins",
-              "options": []
-            }
+        }
+      ],
+      "text_block_2": [
+        {
+          "text": "Élus meilleurs cadeaux (par nous)",
+          "style": {
+            "hex": "#000000",
+            "typography": "Poppins",
+            "options": []
           }
-        ]
+        }
       ],
       "images": [
         {
