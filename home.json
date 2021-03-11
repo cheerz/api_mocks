@@ -12,12 +12,12 @@
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
-            "opacity_percentage": null,
+            "opacity_percentage": null
           },
           "tile_tags": [
             "marketing_banner_1",
             "marketing_banner_2"
-          ],
+          ]
         },
         {
           "template": "marketing_page_block",
@@ -26,7 +26,7 @@
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
-            "opacity_percentage": null,
+            "opacity_percentage": null
           },
           "tile_tags": [
             "marketing_page_block_4",
@@ -41,14 +41,14 @@
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
-            "opacity_percentage": null,
+            "opacity_percentage": null
           },
           "tile_tags": [
             "categories_large_2",
             "categories_large_7",
             "categories_large_3",
             "categories_large_8"
-          ],
+          ]
         },
         {
           "template": "cta_marketing_blocks",
@@ -57,11 +57,11 @@
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
-            "opacity_percentage": 100,
+            "opacity_percentage": 100
           },
           "tile_tags": [
             "cta_marketing_blocks_1"
-          ],
+          ]
         },
         {
           "template": "icon_blocks",
@@ -70,17 +70,17 @@
           "background_color": {
             "light_hex": "#F0F6FF",
             "dark_hex": "#0069FF",
-            "opacity_percentage": 100,
+            "opacity_percentage": 100
           },
           "tile_tags": [
             "icon_blocks_1",
             "icon_blocks_2",
             "icon_blocks_3",
             "icon_blocks_4"
-          ],
+          ]
         }
       ]
-    },
+    }
   ],
   "tiles": [
     {
@@ -88,7 +88,7 @@
       "background_color": {
         "light_hex": "#0069FF",
         "dark_hex": "#0069FF",
-        "opacity_percentage": 100,
+        "opacity_percentage": 100
       },
       "text_block_1": [
         {
@@ -121,7 +121,7 @@
       "background_color": {
         "light_hex": "#8C9BA5",
         "dark_hex": "#8C9BA5",
-        "opacity_percentage": 100,
+        "opacity_percentage": 100
       },
       "text_block_1": [
         {
@@ -143,7 +143,7 @@
       "background_color": {
         "ligth_hex": "#ffffff",
         "dark_hex": "#000000",
-        "opacity_percentage": 100,
+        "opacity_percentage": 100
       },
       "text_block_1": [
         {
@@ -187,7 +187,7 @@
       "background_color": {
         "ligth_hex": "#ffffff",
         "dark_hex": "#000000",
-        "opacity_percentage": 100,
+        "opacity_percentage": 100
       },
       "text_block_1": [
         {
@@ -231,7 +231,7 @@
       "background_color": {
         "ligth_hex": "#ffffff",
         "dark_hex": "#000000",
-        "opacity_percentage": 100,
+        "opacity_percentage": 100
       },
       "text_block_1": [
         {
@@ -275,7 +275,7 @@
       "background_color": {
         "light_hex": "#0069FF",
         "dark_hex": "#0069FF",
-        "opacity_percentage": 6,
+        "opacity_percentage": 6
       },
       "text_block_1": [
         {
@@ -306,7 +306,7 @@
       "background_color": {
         "light_hex": "#0069FF",
         "dark_hex": "#0069FF",
-        "opacity_percentage": 6,
+        "opacity_percentage": 6
       },
       "text_block_1": [
         {
@@ -337,7 +337,7 @@
       "background_color": {
         "light_hex": "#0069FF",
         "dark_hex": "#0069FF",
-        "opacity_percentage": 6,
+        "opacity_percentage": 6
       },
       "text_block_1": [
         {
@@ -368,7 +368,7 @@
       "background_color": {
         "light_hex": "#0069FF",
         "dark_hex": "#0069FF",
-        "opacity_percentage": 6,
+        "opacity_percentage": 6
       },
       "text_block_1": [
         {
@@ -399,7 +399,7 @@
       "background_color": {
         "light_hex": "#FBF5E6",
         "dark_hex": "#0069FF",
-        "opacity_percentage": 100,
+        "opacity_percentage": 100
       },
       "text_block_1": [
         {
@@ -444,7 +444,7 @@
       "background_color": {
         "light_hex": null,
         "dark_hex": null,
-        "opacity_percentage": null,
+        "opacity_percentage": null
       },
       "text_block_1": [
         {
@@ -479,7 +479,7 @@
       "background_color": {
         "light_hex": null,
         "dark_hex": null,
-        "opacity_percentage": null,
+        "opacity_percentage": null
       },
       "text_block_1": [
         {
@@ -514,7 +514,7 @@
       "background_color": {
         "light_hex": null,
         "dark_hex": null,
-        "opacity_percentage": null,
+        "opacity_percentage": null
       },
       "text_block_1": [
         {
@@ -553,7 +553,7 @@
       "background_color": {
         "light_hex": null,
         "dark_hex": null,
-        "opacity_percentage": null,
+        "opacity_percentage": null
       },
       "text_block_1": [
         {
