@@ -17,7 +17,8 @@
           "tile_tags": [
             "marketing_banner_1",
             "marketing_banner_2"
-          ]
+          ],
+          "cta": {}
         },
         {
           "template": "marketing_page_block",
@@ -32,7 +33,8 @@
             "marketing_page_block_4",
             "marketing_page_block_8",
             "marketing_page_block_9"
-          ]
+          ],
+          "cta": {}
         },
         {
           "template": "categories_large",
@@ -48,7 +50,14 @@
             "categories_large_7",
             "categories_large_3",
             "categories_large_8"
-          ]
+          ],
+          "cta": {
+            "text": "Tout voir",
+            "navigation_link": {
+              "type": "deeplink",
+              "link": "https://www.cheerz.com/fr"
+            }
+          }
         },
         {
           "template": "cta_marketing_blocks",
@@ -61,7 +70,8 @@
           },
           "tile_tags": [
             "cta_marketing_blocks_1"
-          ]
+          ],
+          "cta": {}
         },
         {
           "template": "icon_blocks",
@@ -77,7 +87,8 @@
             "icon_blocks_2",
             "icon_blocks_3",
             "icon_blocks_4"
-          ]
+          ],
+          "cta": {}
         }
       ]
     }
