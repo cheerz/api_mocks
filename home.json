@@ -3,10 +3,12 @@
     {
       "tag": "home",
       "title": "Hello Jean-Pascal,",
+      "subtitle": null,
       "sections": [
         {
           "template": "marketing_banners",
           "title": null,
+          "subtitle": null,
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
@@ -20,6 +22,7 @@
         {
           "template": "marketing_page_block",
           "title": null,
+          "subtitle": null,
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
@@ -34,6 +37,7 @@
         {
           "template": "categories_large",
           "title": "Pour les joies du quotidien",
+          "subtitle": null,
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
@@ -49,6 +53,7 @@
         {
           "template": "cta_marketing_blocks",
           "title": null,
+          "subtitle": null,
           "background_color": {
             "light_hex": null,
             "dark_hex": null,
@@ -61,6 +66,7 @@
         {
           "template": "icon_blocks",
           "title": "#de notremieux",
+          "subtitle": null,
           "background_color": {
             "light_hex": "#F0F6FF",
             "dark_hex": "#0069FF",
