@@ -1,17 +1,18 @@
 {
   "pages": [
     {
-      "id": "home",
+      "tag": "home",
       "title": "Hello Jean-Pascal,",
       "sections": [
         {
           "template": "marketing_banners",
           "title": null,
           "background_color": {
-            "hex": null,
+            "light_hex": null,
+            "dark_hex": null,
             "opacity_percentage": null,
           },
-          "tile_identifiers": [
+          "tile_tags": [
             "marketing_banner_1",
             "marketing_banner_2"
           ],
@@ -20,10 +21,11 @@
           "template": "marketing_page_block",
           "title": null,
           "background_color": {
-            "hex": null,
+            "light_hex": null,
+            "dark_hex": null,
             "opacity_percentage": null,
           },
-          "tile_identifiers": [
+          "tile_tags": [
             "marketing_page_block_4",
             "marketing_page_block_8",
             "marketing_page_block_9"
@@ -33,10 +35,11 @@
           "template": "categories_large",
           "title": "Pour les joies du quotidien",
           "background_color": {
-            "hex": null,
+            "light_hex": null,
+            "dark_hex": null,
             "opacity_percentage": null,
           },
-          "tile_identifiers": [
+          "tile_tags": [
             "categories_large_2",
             "categories_large_7",
             "categories_large_3",
@@ -47,10 +50,11 @@
           "template": "cta_marketing_blocks",
           "title": null,
           "background_color": {
-            "hex": "#FBF5E6",
+            "light_hex": null,
+            "dark_hex": null,
             "opacity_percentage": 100,
           },
-          "tile_identifiers": [
+          "tile_tags": [
             "cta_marketing_blocks_1"
           ],
         },
@@ -58,10 +62,11 @@
           "template": "icon_blocks",
           "title": "#de notremieux",
           "background_color": {
-            "hex": "#F0F6FF",
+            "light_hex": "#F0F6FF",
+            "dark_hex": "#0069FF",
             "opacity_percentage": 100,
           },
-          "tile_identifiers": [
+          "tile_tags": [
             "icon_blocks_1",
             "icon_blocks_2",
             "icon_blocks_3",
@@ -73,9 +78,10 @@
   ],
   "tiles": [
     {
-      "id": "marketing_banner_1",
+      "tag": "marketing_banner_1",
       "background_color": {
-        "hex": "#0069FF",
+        "light_hex": "#0069FF",
+        "dark_hex": "#0069FF",
         "opacity_percentage": 100,
       },
       "text_block_1": [
@@ -94,6 +100,9 @@
           }
         }
       ],
+      "text_block_2": null,
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [],
       "navigation_link": {
         "type": "deeplink",
@@ -102,9 +111,10 @@
       "cta": {}
     },
     {
-      "id": "marketing_banner_2",
+      "tag": "marketing_banner_2",
       "background_color": {
-        "hex": "#8C9BA5",
+        "light_hex": "#8C9BA5",
+        "dark_hex": "#8C9BA5",
         "opacity_percentage": 100,
       },
       "text_block_1": [
@@ -115,14 +125,18 @@
           }
         }
       ],
+      "text_block_2": null,
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [],
       "navigation_link": {},
       "cta": {}
     },
     {
-      "id": "marketing_page_block_4",
+      "tag": "marketing_page_block_4",
       "background_color": {
-        "hex": "#ffffff",
+        "ligth_hex": "#ffffff",
+        "dark_hex": "#000000",
         "opacity_percentage": 100,
       },
       "text_block_1": [
@@ -141,6 +155,8 @@
           }
         }
       ],
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -161,9 +177,10 @@
       }
     },
     {
-      "id": "marketing_page_block_8",
+      "tag": "marketing_page_block_8",
       "background_color": {
-        "hex": "#ffffff",
+        "ligth_hex": "#ffffff",
+        "dark_hex": "#000000",
         "opacity_percentage": 100,
       },
       "text_block_1": [
@@ -182,6 +199,8 @@
           }
         }
       ],
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -202,9 +221,10 @@
       }
     },
     {
-      "id": "marketing_page_block_9",
+      "tag": "marketing_page_block_9",
       "background_color": {
-        "hex": "#ffffff",
+        "ligth_hex": "#ffffff",
+        "dark_hex": "#000000",
         "opacity_percentage": 100,
       },
       "text_block_1": [
@@ -223,6 +243,8 @@
           }
         }
       ],
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -243,9 +265,10 @@
       }
     },
     {
-      "id": "categories_large_2",
+      "tag": "categories_large_2",
       "background_color": {
-        "hex": "#0069FF",
+        "light_hex": "#0069FF",
+        "dark_hex": "#0069FF",
         "opacity_percentage": 6,
       },
       "text_block_1": [
@@ -256,6 +279,9 @@
           }
         }
       ],
+      "text_block_2": null,
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -270,9 +296,10 @@
       "cta": {}
     },
     {
-      "id": "categories_large_7",
+      "tag": "categories_large_7",
       "background_color": {
-        "hex": "#0069FF",
+        "light_hex": "#0069FF",
+        "dark_hex": "#0069FF",
         "opacity_percentage": 6,
       },
       "text_block_1": [
@@ -283,6 +310,9 @@
           }
         }
       ],
+      "text_block_2": null,
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -297,9 +327,10 @@
       "cta": {}
     },
     {
-      "id": "categories_large_3",
+      "tag": "categories_large_3",
       "background_color": {
-        "hex": "#0069FF",
+        "light_hex": "#0069FF",
+        "dark_hex": "#0069FF",
         "opacity_percentage": 6,
       },
       "text_block_1": [
@@ -310,6 +341,9 @@
           }
         }
       ],
+      "text_block_2": null,
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -324,9 +358,10 @@
       "cta": {}
     },
     {
-      "id": "categories_large_8",
+      "tag": "categories_large_8",
       "background_color": {
-        "hex": "#0069FF",
+        "light_hex": "#0069FF",
+        "dark_hex": "#0069FF",
         "opacity_percentage": 6,
       },
       "text_block_1": [
@@ -337,6 +372,9 @@
           }
         }
       ],
+      "text_block_2": null,
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -351,9 +389,10 @@
       "cta": {}
     },
     {
-      "id": "cta_marketing_blocks_1",
+      "tag": "cta_marketing_blocks_1",
       "background_color": {
-        "hex": "#FBF5E6",
+        "light_hex": "#FBF5E6",
+        "dark_hex": "#0069FF",
         "opacity_percentage": 100,
       },
       "text_block_1": [
@@ -380,6 +419,7 @@
           }
         }
       ],
+      "text_block_4": null,
       "images": [],
       "navigation_link": {
         "type": "url",
@@ -394,9 +434,10 @@
       }
     },
     {
-      "id": "icon_blocks_1",
+      "tag": "icon_blocks_1",
       "background_color": {
-        "hex": null,
+        "light_hex": null,
+        "dark_hex": null,
         "opacity_percentage": null,
       },
       "text_block_1": [
@@ -415,6 +456,8 @@
           }
         }
       ],
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -426,9 +469,10 @@
       "cta": {}
     },
     {
-      "id": "icon_blocks_2",
+      "tag": "icon_blocks_2",
       "background_color": {
-        "hex": null,
+        "light_hex": null,
+        "dark_hex": null,
         "opacity_percentage": null,
       },
       "text_block_1": [
@@ -447,6 +491,8 @@
           }
         }
       ],
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -458,9 +504,10 @@
       "cta": {}
     },
     {
-      "id": "icon_blocks_3",
+      "tag": "icon_blocks_3",
       "background_color": {
-        "hex": null,
+        "light_hex": null,
+        "dark_hex": null,
         "opacity_percentage": null,
       },
       "text_block_1": [
@@ -483,6 +530,8 @@
           }
         }
       ],
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
@@ -494,9 +543,10 @@
       "cta": {}
     },
     {
-      "id": "icon_blocks_4",
+      "tag": "icon_blocks_4",
       "background_color": {
-        "hex": null,
+        "light_hex": null,
+        "dark_hex": null,
         "opacity_percentage": null,
       },
       "text_block_1": [
@@ -519,6 +569,8 @@
           }
         }
       ],
+      "text_block_3": null,
+      "text_block_4": null,
       "images": [
         {
           "3x": "3x",
