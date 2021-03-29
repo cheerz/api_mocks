@@ -1,0 +1,613 @@
+{
+  "response": {
+    "first_page_slug": "home",
+    "pages": [
+      {
+        "slug": "home",
+        "title": "Bonjour ",
+        "sections": [
+          {
+            "display_type": "marketing_banner_blocks",
+            "background_color": {},
+            "title": null,
+            "subtitle": [
+              {
+                "text": "Livraison et retours gratuits à partir de 50€ d'achat - ",
+                "style": {
+                  "options": []
+                },
+                "navigation_link": {"type": "path/url"}
+              },
+              {
+                "text": "Lire plus",
+                "style": {
+                  "options": [
+                    "underlined"
+                  ]
+                }
+              }
+            ],
+            "description": [
+              {
+                "text": "Livraison et retours gratuits à partir de 50€ d'achat - ",
+                "style": {
+                  "options": []
+                },
+                "navigation_link": {"type": "path/url"}
+              },
+              {
+                "text": "Lire plus",
+                "style": {
+                  "options": [
+                    "underlined"
+                  ],
+                }
+              }
+            ],
+            "tiles_slugs": [
+              "banner-livraison-gratuite",
+              "banner-grandmothers-day"
+            ],
+            "cta": [{}]
+          },
+          {
+            "display_type": "marketing_inspiration_blocks",
+            "background_color": {},
+            "title": null,
+            "tiles_slugs": [
+              "marketing-block-summer",
+              "marketing-block-grandmother",
+              "marketing-block-hellocard"
+            ],
+            "cta": {}
+          },
+          {
+            "display_type": "categorie_home_blocks",
+            "background_color": {},
+            "title": "Pour les joies du quotidien",
+            "tiles_slugs": [
+              "categorie-home-prints",
+              "categorie-home-magnets",
+              "categorie-home-boxes",
+              "categorie-home-books"
+            ],
+            "cta": {
+              "text": "Voir tout",
+              "navigation_link": {
+                "type": "deeplink",
+                "link": "https://www.cheerz.com/fr/products"
+              }
+            }
+          },
+          {
+            "display_type": "service_blocks",
+            "background_color": {},
+            "title": null,
+            "tiles_slugs": [
+              "service-photobooth"
+            ],
+            "cta": {}
+          },
+          {
+            "display_type": "icon_blocks",
+            "background_color": {
+              "light_hex": "#F0F6FF",
+              "dark_hex": "#0069FF",
+              "light_opacity_percentage": 100,
+              "dark_opacity_percentage": 6
+            },
+            "title": "#de notre mieux",
+            "tiles_slugs": [
+              "icon-block-livraison",
+              "icon-block-pollution",
+              "icon-block-custo",
+              "icon-block-kdo"
+            ],
+            "cta": {}
+          }
+        ]
+      }
+    ],
+    "tiles": [
+      {
+        "slug": "banner-livraison-gratuite",
+        "background_color": {
+          "hex": "#0069FF",
+          "opacity_percentage": 100
+        },
+        "text_block_1": [
+          {
+            "text": "Livraison et retours gratuits à partir de 50€ d'achat - ",
+            "style": {
+              "options": []
+            },
+            "navigation_link": {"type": "path/url", "link": "truc"}
+          },
+          {
+            "text": "Lire plus",
+            "style": {
+              "options": [
+                "underlined"
+              ]
+            },
+            "navigation_link": {},
+          }
+        ],
+        "text_block_2": null,
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": ["première image la grande", "deuxième image la petite"],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/categories/albums"
+        },
+        "cta": {}
+      },
+      {
+        "slug": "banner-grandmothers-day",
+        "background_color": {
+          "light_hex": "#8C9BA5",
+          "dark_hex": "#8C9BA5",
+          "light_opacity_percentage": 100,
+          "dark_opacity_percentage": 100
+        },
+        "text_block_1": [
+          {
+            "text": "La fête des grands-mères c'est le 7 mars, alors rattrapez-vous avec une carte cadeau !",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": null,
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [],
+        "navigation_link": {},
+        "cta": {}
+      },
+      {
+        "slug": "marketing-block-summer",
+        "background_color": {
+          "light_hex": "#FFFFFF",
+          "dark_hex": "#000000",
+          "light_opacity_percentage": 100,
+          "dark_opacity_percentage": 100
+        },
+        "text_block_1": [
+          {
+            "text": "Envie de revivre ce drôle d’été ?",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Un livre photo personnalisé, fleuri et garni de belles histoires : les vôtres",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "desktop": {"1x": "toto", "2x": "toto"},
+            "mobile": {"1x": "toto", "2x": "toto"},
+          },
+          {
+            "desktop": {"1x": "toto", "2x": "toto"},
+            "mobile": {},
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/categories/new-arrivals-collection"
+        },
+        "cta": {
+          "text": "Voir la collection de l’été",
+          "navigation_link": {
+            "type": "deeplink",
+            "link": "https://www.cheerz.com/fr/categories/new-arrivals-collection"
+          }
+        }
+      },
+      {
+        "slug": "marketing-block-grandmother",
+        "background_color": {
+          "light_hex": "#FFFFFF",
+          "dark_hex": "#000000",
+          "light_opacity_percentage": 100,
+          "dark_opacity_percentage": 100
+        },
+        "text_block_1": [
+          {
+            "text": "Il est temps de penser à Mamie !",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Quel plus beau cadeau pour la meilleure des grands-mères qu'un florilège de beaux souvenirs ?",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/marketing_inspiration_mobile-6auvbnkc8e8iuf5sf50c2zisly1p-1x-1.jpg",
+            "2x": "http://localhost:3000/contents/assets/marketing_inspiration_mobile-6auvbnkc8e8iuf5sf50c2zisly1p-2x-1.jpg",
+            "3x": "http://localhost:3000/contents/assets/marketing_inspiration_mobile-6auvbnkc8e8iuf5sf50c2zisly1p-3x-1.jpg"
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/categories/grandmothersday-collection"
+        },
+        "cta": {
+          "text": "Voir la collection spéciale fête des grands-mères",
+          "navigation_link": {
+            "type": "deeplink",
+            "link": "https://www.cheerz.com/fr/categories/grandmothersday-collection"
+          }
+        }
+      },
+      {
+        "slug": "marketing-block-hellocard",
+        "background_color": {
+          "light_hex": "#FFFFFF",
+          "dark_hex": "#000000",
+          "light_opacity_percentage": 100,
+          "dark_opacity_percentage": 100
+        },
+        "text_block_1": [
+          {
+            "text": "Quelques mots d'amour...",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Une photo, un petit mot... la recette du meilleur cadeau !",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/marketing_inspiration_mobile-v6myq0nuuoloiisxgyyhbc4w4dgj-1x-1.jpg",
+            "2x": "http://localhost:3000/contents/assets/marketing_inspiration_mobile-v6myq0nuuoloiisxgyyhbc4w4dgj-2x-1.jpg",
+            "3x": "http://localhost:3000/contents/assets/marketing_inspiration_mobile-v6myq0nuuoloiisxgyyhbc4w4dgj-3x-1.jpg"
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/products/la-petite-attention"
+        },
+        "cta": {
+          "text": "J'achète !",
+          "navigation_link": {
+            "type": "deeplink",
+            "link": "https://www.cheerz.com/fr/products/la-petite-attention"
+          }
+        }
+      },
+      {
+        "slug": "categorie-home-prints",
+        "background_color": {
+          "light_hex": "#0069FF",
+          "dark_hex": "#0069FF",
+          "light_opacity_percentage": 6,
+          "dark_opacity_percentage": 6
+        },
+        "text_block_1": [
+          {
+            "text": "Tirage photo",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": null,
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/categorie_home_mobile-z2hgo09kpp6eulygsh0j4cvt3zq1-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/categorie_home_mobile-z2hgo09kpp6eulygsh0j4cvt3zq1-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/categorie_home_mobile-z2hgo09kpp6eulygsh0j4cvt3zq1-3x-1.png"
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/products/prints"
+        },
+        "cta": {}
+      },
+      {
+        "slug": "categorie-home-magnets",
+        "background_color": {
+          "light_hex": "#0069FF",
+          "dark_hex": "#0069FF",
+          "light_opacity_percentage": 6,
+          "dark_opacity_percentage": 6
+        },
+        "text_block_1": [
+          {
+            "text": "Magnet",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": null,
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/categorie_home_mobile-ylb6qssnsnkefvolq4b0ov0fhytw-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/categorie_home_mobile-ylb6qssnsnkefvolq4b0ov0fhytw-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/categorie_home_mobile-ylb6qssnsnkefvolq4b0ov0fhytw-3x-1.png"
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/products/magnets"
+        },
+        "cta": {}
+      },
+      {
+        "slug": "categorie-home-boxes",
+        "background_color": {
+          "light_hex": "#0069FF",
+          "dark_hex": "#0069FF",
+          "light_opacity_percentage": 6,
+          "dark_opacity_percentage": 6
+        },
+        "text_block_1": [
+          {
+            "text": "Box photo",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": null,
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/categorie_home_mobile-rg900h0gym3ur95en6tfqoz8qe92-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/categorie_home_mobile-rg900h0gym3ur95en6tfqoz8qe92-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/categorie_home_mobile-rg900h0gym3ur95en6tfqoz8qe92-3x-1.png"
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/products/box"
+        },
+        "cta": {}
+      },
+      {
+        "slug": "categorie-home-books",
+        "background_color": {
+          "light_hex": "#0069FF",
+          "dark_hex": "#0069FF",
+          "light_opacity_percentage": 6,
+          "dark_opacity_percentage": 6
+        },
+        "text_block_1": [
+          {
+            "text": "Albums photo",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": null,
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/categorie_home_mobile-j4w8aiynpmxd03u5myhx0jyjm5wb-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/categorie_home_mobile-j4w8aiynpmxd03u5myhx0jyjm5wb-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/categorie_home_mobile-j4w8aiynpmxd03u5myhx0jyjm5wb-3x-1.png"
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/products/books"
+        },
+        "cta": {}
+      },
+      {
+        "slug": "service-photobooth",
+        "background_color": {
+          "light_hex": "#FBF5E6",
+          "dark_hex": "#0069FF",
+          "light_opacity_percentage": 100,
+          "dark_opacity_percentage": 6
+        },
+        "text_block_1": [
+          {
+            "text": "Vous organisez un événement ?",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Découvrez nos photobooths à la location",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": [
+          {
+            "text": "(et n’oubliez pas de nous inviter à votre soirée)",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/service_block_mobile-llxya0h8don22rrlhvb7bir2unjv-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/service_block_mobile-llxya0h8don22rrlhvb7bir2unjv-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/service_block_mobile-llxya0h8don22rrlhvb7bir2unjv-3x-1.png"
+          }
+        ],
+        "navigation_link": {
+          "type": "deeplink",
+          "link": "https://www.cheerz.com/fr/products/photobooths"
+        },
+        "cta": {
+          "text": "Réserver",
+          "navigation_link": {
+            "type": "deeplink",
+            "link": "https://www.cheerz.com/fr/products/photobooths"
+          }
+        }
+      },
+      {
+        "slug": "icon-block-livraison",
+        "background_color": {},
+        "text_block_1": [
+          {
+            "text": "Livré vite",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Livraison chez vous en moins d’une semaine",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/icon_block_mobile-59bruf3l6bhmnj2t91328hxxfx2x-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/icon_block_mobile-59bruf3l6bhmnj2t91328hxxfx2x-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/icon_block_mobile-59bruf3l6bhmnj2t91328hxxfx2x-3x-1.png"
+          }
+        ],
+        "navigation_link": {},
+        "cta": {}
+      },
+      {
+        "slug": "icon-block-pollution",
+        "background_color": {},
+        "text_block_1": [
+          {
+            "text": "Pollution zéro",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Tous nos packagings sont recyclés et recyclables",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/icon_block_mobile-fgyudcy5d14vpjjswri81ee4a8jf-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/icon_block_mobile-fgyudcy5d14vpjjswri81ee4a8jf-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/icon_block_mobile-fgyudcy5d14vpjjswri81ee4a8jf-3x-1.png"
+          }
+        ],
+        "navigation_link": {},
+        "cta": {}
+      },
+      {
+        "slug": "icon-block-custo",
+        "background_color": {},
+        "text_block_1": [
+          {
+            "text": "Custo à fond",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Produits 100 {:first_name=>nil}ersonnalisable",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/icon_block_mobile-7j3ug3xwusy19pdysjea8ps4rpkv-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/icon_block_mobile-7j3ug3xwusy19pdysjea8ps4rpkv-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/icon_block_mobile-7j3ug3xwusy19pdysjea8ps4rpkv-3x-1.png"
+          }
+        ],
+        "navigation_link": {},
+        "cta": {}
+      },
+      {
+        "slug": "icon-block-kdo",
+        "background_color": {},
+        "text_block_1": [
+          {
+            "text": "Meilleur Kdo",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_2": [
+          {
+            "text": "Élus meilleurs cadeaux (par nous)",
+            "style": {
+              "options": []
+            }
+          }
+        ],
+        "text_block_3": null,
+        "text_block_4": null,
+        "images": [
+          {
+            "1x": "http://localhost:3000/contents/assets/icon_block_mobile-9d95kpc10e2tipe84k288d4ijtob-1x-1.png",
+            "2x": "http://localhost:3000/contents/assets/icon_block_mobile-9d95kpc10e2tipe84k288d4ijtob-2x-1.png",
+            "3x": "http://localhost:3000/contents/assets/icon_block_mobile-9d95kpc10e2tipe84k288d4ijtob-3x-1.png"
+          }
+        ],
+        "navigation_link": {},
+        "cta": {}
+      }
+    ]
+  }
+}
